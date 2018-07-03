@@ -1,0 +1,15 @@
+{
+    "pps": "123456789",
+    "cusName": "Chan Tai Man",
+    "cusStatus": "A",
+    "equipList": [
+        {
+            "sim":"123",
+            "mobileLineNo":"5338 5337"
+        },
+        {
+            "sim": "456",
+            "mobileLineNo": "9876 1234"
+        }
+    ]
+}
